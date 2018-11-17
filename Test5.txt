@@ -1,0 +1,15 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 80F3-1FC9
+
+ Directory of D:\GIT Projects\TestRepo
+
+17-11-2018  04:05 PM    <DIR>          .
+17-11-2018  04:05 PM    <DIR>          ..
+17-11-2018  03:19 PM                 8 test.txt
+17-11-2018  03:19 PM                 0 test1.txt
+17-11-2018  03:34 PM               447 test2.txt
+17-11-2018  03:57 PM               497 test3.txt
+17-11-2018  03:57 PM               547 test4.txt
+17-11-2018  04:05 PM                 0 Test5.txt
+               6 File(s)          1,499 bytes
+               2 Dir(s)  61,281,087,488 bytes free
